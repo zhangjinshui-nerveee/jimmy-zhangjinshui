@@ -2,7 +2,7 @@
 - 👀 I’m interested in working out
 - 🌱 I’m currently learning power electronics
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me ... jinshui.zhang@duke.edu
 
 <!---
 jimmy-zhangjinshui/jimmy-zhangjinshui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
